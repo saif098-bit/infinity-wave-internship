@@ -29,4 +29,4 @@ Data annotation, bounding boxes, polygon annotation, object tracking, CV fundame
 
 Data Annotation Report with screenshots from the CVAT workspace.
 
-- [Intern Journey](./Intern Journey.pdf)
+- [Data Annotator Intern Journey](./Intern_Journey.pdf)
