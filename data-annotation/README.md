@@ -27,6 +27,6 @@ Data annotation, bounding boxes, polygon annotation, object tracking, CV fundame
 
 ## Reports
 
-Weekly write-ups with screenshots from the CVAT workspace are in [`reports/`](./reports).
+Data Annotation Report with screenshots from the CVAT workspace.
 
-- [Week 1 — Data Annotator Intern Journey](./reports/Week1_Data_Annotator.pdf)
+- [Intern Journey](./Intern Journey.pdf)
